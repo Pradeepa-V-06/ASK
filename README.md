@@ -155,9 +155,10 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
+# ASK
 <img width="946" height="756" alt="image" src="https://github.com/user-attachments/assets/7443b35e-6a45-4686-a419-20ce3642b77a" />
 
+# FSK
 <img width="857" height="830" alt="image" src="https://github.com/user-attachments/assets/5114986d-e5b2-449b-b8a6-0123564ab743" />
 
 # Results
